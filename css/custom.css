@@ -1,0 +1,32 @@
+h1, .masthead-heading .mb-0 {
+    color: black !important; 
+}
+
+.btn, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited{
+    background-color: #03440C  !important;
+    border-color: #ffffff !important;
+
+}
+
+
+#servicelist li{
+    list-style-type: none;
+}
+
+h1{
+    font-size: 1.8em !important;
+}
+
+.display-4{
+    margin-top: 10px;
+}
+
+.masthead-heading{
+    font-size: 5em !important;
+    font-family: 'Alatsi';
+}
+a{
+    color: #03440C;
+    font-weight: bolder;
+    font-size: 1em;
+}
