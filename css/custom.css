@@ -1,5 +1,11 @@
 h1, .masthead-heading .mb-0 {
-    color: black !important; 
+    color: black !important;
+    font-family: 'Georgia'; 
+    padding-top: 20px;
+}
+
+h2 {
+    font-size: 18px;
 }
 
 body{
@@ -32,10 +38,14 @@ h1{
 
 .masthead-heading{
     font-size: 5em !important;
-    font-family: 'Alatsi';
+    font-family: 'Georgia';
 }
 a{
     color: #03440C;
     font-weight: bolder;
     font-size: 1em;
+}
+
+.btn-primary{
+    margin-top: 20px;
 }
