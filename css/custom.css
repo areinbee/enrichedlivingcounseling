@@ -20,7 +20,10 @@ body{
 .btn, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited{
     background-color: #03440C  !important;
     border-color: #ffffff !important;
+}
 
+footer{
+    margin-top: 100px;
 }
 
 
