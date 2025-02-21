@@ -1,5 +1,5 @@
 h1, .masthead-heading .mb-0 {
-    color: black !important;
+    color: #03440C !important;
     font-family: 'Georgia'; 
     padding-top: 20px;
 }
@@ -24,6 +24,10 @@ body{
 
 footer{
     margin-top: 100px;
+}
+
+.specialsec{
+    background-color: #d2e6d2;
 }
 
 
