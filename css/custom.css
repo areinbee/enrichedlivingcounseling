@@ -1,11 +1,34 @@
 h1, .masthead-heading .mb-0 {
-    color: black !important; 
+    color: #03440C !important;
+    font-family: 'Georgia'; 
+    padding-top: 20px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+body{
+    background-color: #ffffff;
+
+}
+
+.maintext{
+    background-color: #fff;
 }
 
 .btn, .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited{
     background-color: #03440C  !important;
     border-color: #ffffff !important;
+}
 
+footer{
+    margin-top: 100px;
+    background-color: #705b87;
+}
+
+.specialsec{
+    background-color: #dbe9d2;
 }
 
 
@@ -23,10 +46,14 @@ h1{
 
 .masthead-heading{
     font-size: 5em !important;
-    font-family: 'Alatsi';
+    font-family: 'Georgia';
 }
 a{
     color: #03440C;
     font-weight: bolder;
     font-size: 1em;
+}
+
+.btn-primary{
+    margin-top: 20px;
 }
